@@ -1,7 +1,7 @@
 {
-  "name": "osc-viz",
+  "name": "simple-react-boilerplate",
   "version": "0.0.1",
-  "description": "OSC message visualizations in a browser",
+  "description": "Simple react boilerplate. Change package details to suite project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
